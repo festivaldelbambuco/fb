@@ -5,7 +5,7 @@
 **/
 
 $login_url = "http://evilnapsis.com/stuffs/fb-access/callback.php"; // ejemplo de callback
-$app_id = "INSERTA_TU_APP_ID";
-$app_secret = "INSERTA_TU_APP_SECRET";
+$app_id = "763677260399419";
+$app_secret = "fe7b893f2a588c0577e9e1cb67f10bed";
 
 ?>
