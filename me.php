@@ -38,7 +38,7 @@ echo " <a href='logout.php'>Salir</a>";
 }
 
 }else{
-  header("Location: login.php");
+  header("Location: index.php");
 
 }
 
